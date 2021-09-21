@@ -3,7 +3,7 @@
 # be overwritten when we work on this file as a group
 from snow import snow
 
-weather = input("Enter the expected weather: 'sunny', 'snow', 'rain', or 'clear': ")
+weather = input("Enter the expected weather: 'sunny', 'snow', 'rain', or 'wind': ")
 if(weather == "snow"):
     ground = input("Enter the ground conditions: 'ice', 'slush', or other: ")
     precip = float(input("Enter the precipitation chance in decimal form [0.0, 1.0]: "))
