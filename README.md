@@ -9,5 +9,3 @@ __Feature 2:__ Support for suggestions based on sunny weather. _temp_
 __Feature 3:__ Support for suggestions based on percentage of rain. _temp_
 
 __Feature 4:__ Support for suggestions based on wind speed.  _temp_
-
-This branch implements suggestive actions based off wind weather variables
