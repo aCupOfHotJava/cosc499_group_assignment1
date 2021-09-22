@@ -10,3 +10,4 @@ def chancesOfSun(weather):
         print("There is a high chance it will be sunny today!") 
 
 #chancesOfSun(14)
+ 
